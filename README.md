@@ -2,11 +2,11 @@
 
 ###
 
-<h6 align="left">🌍 I'm aspiring Full-Stack Developer | 🚀 Tech Enthusiast  💻 I’m passionate about building web and software projects that make a difference! ✨ Currently diving deep into Java, HTML, CSS, and JavaScript.  📈 I'm working on exciting projects like the Crypto Risk Analyzer, focusing on financial insights through data! 🎓 As a self-taught developer, I believe in learning by doing and growing through challenges.</h6>
+<h6 align="left">🌍 I'm an aspiring Full-Stack Developer | 🚀 Tech Enthusiast  💻 I’m passionate about building web and software projects that make a difference! ✨ Currently diving deep into Java, HTML, CSS, and JavaScript.  📈 I'm working on exciting projects like the Crypto Risk Analyzer, focusing on financial insights through data! 🎓 As a self-taught developer, I believe in learning by doing and growing through challenges.</h6>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/KaNOpQnupPUAAAAd/guts-berserk-guts.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/2JlGx5mrC3MAAAAd/son-goku-goku.gif"  />
 
 ###
 
@@ -42,13 +42,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/heybikramjeetsingh" target="_blank">
+  <a href="https://www.linkedin.com/in/heybikramjeetsingh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/bikram_jeet_x" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="heybikramjeetsingh@gmail.com" target="_blank">
+  <a href="mailto:heybikramjeetsingh@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/heybikramjeetsingh/" target="_blank">
@@ -59,5 +59,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/heybikramjeetsingh/heybikramjeetsingh/output/snake.svg" alt="Snake animation" />
-
-###
