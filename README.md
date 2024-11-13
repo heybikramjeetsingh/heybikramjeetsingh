@@ -12,7 +12,6 @@
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/heybikramjeetsingh/heybikramjeetsingh/main/assets/goku-thumbs-up.gif"  />
 
-
 ###
 
 <h4 align="left">Tech Stack :</h4>
@@ -20,15 +19,15 @@
 ###
 
 <div align="left">
-  <a href="https://https://git-scm.com/" target="_blank">
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   </a>
   <img width="12" />
-  <a href="https://https://dev.java/" target="_blank">
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   </a>
   <img width="12" />
-  <a href="https://https://www.python.org/" target="_blank">
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   </a>
   <img width="12" />
@@ -40,7 +39,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   </a>
   <img width="12" />
-  <a href="https://https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   </a>
 </div>
