@@ -16,9 +16,9 @@
   <img height="150" src="https://raw.githubusercontent.com/heybikramjeetsingh/heybikramjeetsingh/main/assets/goku-thumbs-up.gif" alt="Goku thumbs up" />
 </div>
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -32,9 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div>
 
-<h3 align="left">Connect With Me</h3>
+<h3 align="center">Connect With Me</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/heybikramjeetsingh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
   </a>
