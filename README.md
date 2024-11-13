@@ -26,7 +26,7 @@ I'm a passionate Backend Developer with expertise in Java, Python, and JavaScrip
 ## 💻 Technical Skills
 
 <details>
-<summary>Languages</summary>
+<summary>Programming Languages</summary>
 <br>
   
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
